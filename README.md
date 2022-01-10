@@ -1,2 +1,2 @@
-# project_hsaf
+# hsaf
 Labs repository of HSAF Project
